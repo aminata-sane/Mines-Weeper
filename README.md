@@ -8,9 +8,14 @@ dévoile.
 STRUCTURE DU JEU :
 
 /Mines-weeper/
+
 ├── main.py                # Point d'entrée principal
+
 ├── demineur.py            # Classe principale Demineur
+
 ├── ui.py                  # Gestion de l'interface utilisateur (menu et jeu)
+
 ├── logic.py               # Logique du jeu (mines, drapeaux, etc.)
+
 └── animations.py          # Gestion des animations (GIF, explosions, etc.)
 
