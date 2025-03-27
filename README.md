@@ -2,8 +2,6 @@
 
 ├──ENGLISH VERSION
 
-Using object-oriented programming and recursion, I've created a mine-clearing game with Tkinter; the aim is to discover and clear a mine-strewn terrain, represented by a matrix of squares. Each click on a square reveals it.
-
          GAME STRUCTURE :
 
          /Mines-weeper/
