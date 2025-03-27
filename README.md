@@ -19,3 +19,10 @@ STRUCTURE DU JEU :
 
 └── animations.py          # Gestion des animations (GIF, explosions, etc.)
 
+INSTRUCTIONS POUR UTILISER LE JEU : (Branche├── Mode-emoji)
+
+Utilisez les flèches directionnelles pour déplacer votre personnage sur le plateau.
+Le clic droit permet de poser ou d'enlever un drapeau sur une case (utile pour marquer les mines suspectées).
+Lorsque votre personnage se déplace sur une case, celle-ci est automatiquement révélée.
+Si vous marchez sur une mine, le jeu se termine.
+
